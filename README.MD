@@ -1,0 +1,1 @@
+This is config directory for config service demo project
